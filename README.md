@@ -1,5 +1,5 @@
 [![Github All Releases](https://img.shields.io/github/downloads/RamboPlayCom/ZZeus/total.svg)](https://github.com/RamboPlayCom/ZZeus/releases)
-[![license](https://img.shields.io/github/license/RamboPlayCom/ZZeus.svg)](https://github.com/RamboPlayCom/ZZeus/LICENSE)
+[![license](https://img.shields.io/github/license/RamboPlayCom/ZZeus.svg)](https://github.com/RamboPlayCom/ZZeus/blob/main/LICENSE)
 
 # ZZeus
 It's a dll engine extension project launched by RamboPlay and aimed at providing a codec fix for CNCnet5.dll based on [Syringe](https://github.com/Ares-Developers/Syringe).
