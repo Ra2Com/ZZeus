@@ -4,7 +4,7 @@
 # ZZeus
 It's a dll engine extension project launched by RamboPlay and aimed at providing a codec fix for CNCnet5.dll based on [Syringe](https://github.com/Ares-Developers/Syringe).
 
-While ZZeus is independent of Ares by AlexB, you cannot use Ares, Phobos with using ZZeus.
+While ZZeus is independent of Ares by AlexB, you can use Ares, Phobos with using ZZeus.
 
 Currently, usage agreement is the basis of all cooperation. It is not a problem which kind of code hosting is used, We don't want to open source of this dll. But you can use the release binary under License.
 
