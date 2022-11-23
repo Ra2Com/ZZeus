@@ -23,4 +23,4 @@ Report a issue & Pull Request
 ---------
 
 You can visit RamboPlay's Discord
-[![](https://img.shields.io/discord/956480822716805121?label=Discord)](https://discord.gg/Z6fx9qtv)  
+[![](https://img.shields.io/discord/956480822716805121?label=Discord)](https://discord.gg/BycDwdFw5X)  
