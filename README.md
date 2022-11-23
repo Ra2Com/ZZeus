@@ -11,7 +11,7 @@ Currently, usage agreement is the basis of all cooperation. It is not a problem 
 Downloads
 ---------
 
-TBD
+Check [Release](https://github.com/RamboPlayCom/ZZeus/releases/tag/Release) Page.
 
 ZZeus Changelog
 ---------
