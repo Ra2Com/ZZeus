@@ -10,6 +10,8 @@ Currently, usage agreement is the basis of all cooperation. It is not a problem 
 
 ATTENTION: Due to Syringe Dictionary Order, ZZeus must be the last DLL it reads, we highly recommend you do not change the DLL name.
 
+Usage: Puts ZZeus.dll the same directory as your Ares.dll and run the game in Ares (+Phobos or Kratos) mode.
+
 Downloads
 ---------
 
